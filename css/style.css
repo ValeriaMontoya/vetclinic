@@ -552,3 +552,23 @@ a:focus {
 .info_items .item .img-box.box-3 {
   background-image: url(../images/envelope-white.png);
 }
+
+/* footer section*/
+.footer_section {
+  background-color: #fbfdfd;
+  padding: 20px;
+  font-weight: 500;
+}
+
+.footer_section p {
+  color: #292929;
+  margin: 0;
+  text-align: center;
+}
+
+.footer_section a {
+  color: #292929;
+}
+
+/* end footer section*/
+/*# sourceMappingURL=style.css.map */
