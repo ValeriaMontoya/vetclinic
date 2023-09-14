@@ -1,2 +1,2 @@
 # Botón para eliminar registros.
-Este botón permite al administrador eliminar los registros de las citas agendadas. 
+Este botón permite al administrador eliminar los registros necesarion de las citas agendadas. 
