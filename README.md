@@ -1,5 +1,6 @@
-# "Registrar.php" 
-Es un archivo relacionado con el desarrollo de aplicaciones web y se utiliza para realizar la acción de registrar a un nuevo usuario en un sistema, plataforma o sitio web. 
+# "Registrar" 
+
+Registrar.php, es un archivo relacionado con el desarrollo de aplicaciones web y se utiliza para realizar la acción de registrar a un nuevo usuario en un sistema, plataforma o sitio web. 
 
 ## Funcionalidad principal 
 Capturar los datos proporcionados por el usuario que desea crear una cuenta y almacenar esa información en una base de datos o realizar las acciones necesarias para crear un perfil de usuario.
